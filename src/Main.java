@@ -38,6 +38,5 @@ public class Main {
         boolean kosul1 = (a >= b);
         System.out.println(kosul1);
 
-
     }
 }
