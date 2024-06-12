@@ -1,42 +1,17 @@
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) {
-        // Degiskenleri olustur
-        int mat, fizik, kimya, turkce, tarih, muzik;
+   public static void main(String[] args) {
+      int km;
+      double perKm = 2.20 , total, TaxMeter = 10;
 
-        //Scanner sinifimizi tanimladik
-        Scanner inp = new Scanner(System.in);
+      Scanner input = new Scanner(System.in);
+      System.out.print("Mesafeyi KM cinsinden giriniz : " );
+      km = input.nextInt();
 
-        //Kullanicidan degerlei al
-        System.out.print("Matematik Notunuz : ");
-        mat = inp.nextInt();
+      total = (km * perKm);
+      total += TaxMeter;
+      System.out.println("Total : " + total);
 
-        System.out.print("Fizik Notunuz : ");
-        fizik = inp.nextInt();
-
-        System.out.print("Kimya Notunuz : ");
-        kimya = inp.nextInt();
-
-        System.out.print("Turkce Notunuz : ");
-        turkce = inp.nextInt();
-
-        System.out.print("Tarih Notunuz : ");
-        tarih = inp.nextInt();
-
-        System.out.print("Müzik Notunuz : ");
-        muzik = inp.nextInt();
-
-        int toplam = (mat + fizik + kimya + turkce + tarih + muzik);
-        double sonuc = toplam / 6.0;
-        System.out.println("Ortalamaniz : " + sonuc);
-
-        double a = 63.33;
-        int b = 60;
-        // a büyük ise o zaman "Sinif Gecti" yaz;
-        System.out.println("Sinif Gecti");
-        boolean kosul1 = (a >= b);
-        System.out.println(kosul1);
-
-    }
+   }
 }
