@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Burclar/Burclar.iml" filepath="$PROJECT_DIR$/Burclar/Burclar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hackerrank/Hackerrank.iml" filepath="$PROJECT_DIR$/Hackerrank/Hackerrank.iml" />
       <module fileurl="file://$PROJECT_DIR$/HavaDurumOnerme/HavaDurumOnerme.iml" filepath="$PROJECT_DIR$/HavaDurumOnerme/HavaDurumOnerme.iml" />
       <module fileurl="file://$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" filepath="$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101.iml" filepath="$PROJECT_DIR$/Java101.iml" />
