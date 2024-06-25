@@ -35,7 +35,7 @@ public class Java {
             System.out.println("Weird");
         } else if (isError) {
             System.out.println("Not weird.");
-        } else {
+        } {
             System.out.println("Please start again.");
         }
 

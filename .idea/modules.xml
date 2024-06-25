@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/KullaniciGirisi/KullaniciGirisi.iml" filepath="$PROJECT_DIR$/KullaniciGirisi/KullaniciGirisi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sayilar/Sayilar.iml" filepath="$PROJECT_DIR$/Sayilar/Sayilar.iml" />
       <module fileurl="file://$PROJECT_DIR$/SinifGectiHesaplama/SinifGectiHesaplama.iml" filepath="$PROJECT_DIR$/SinifGectiHesaplama/SinifGectiHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sayilar/UcakBilet/UcakBilet.iml" filepath="$PROJECT_DIR$/Sayilar/UcakBilet/UcakBilet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UcakBileti/UcakBileti.iml" filepath="$PROJECT_DIR$/UcakBileti/UcakBileti.iml" />
     </modules>
   </component>
 </project>

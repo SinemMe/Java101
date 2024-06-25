@@ -40,4 +40,15 @@ public class Main {
         }
 
     }
-}
+}                     throw new RuntimeException(e);
+                    }
+                            System.out.println("1500000000 can be fitted in:" + dataType);
+                } catch (RuntimeException e) {
+        throw new RuntimeException(e);
+                } System.out.println("-100000000000000 can be fitted in:" + dataType);
+            } finally {
+                    System.out.println("213333333333333333333333333333333333:" + dataType);
+            }
+                    }
+                    }
+                    }
